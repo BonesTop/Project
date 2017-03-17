@@ -1,0 +1,12 @@
+.imggroup{
+    width: 100px;
+    height: 125px;
+}
+.grad{
+     transition: box-shadow 0.5s;
+     overflow: hidden;
+}
+.grad:hover{
+    box-shadow: 5px 5px 40px grey;
+ padding: 0;
+}
